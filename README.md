@@ -1,1 +1,1 @@
-# data_drift_detection_demo
+# Data drift detection demo
